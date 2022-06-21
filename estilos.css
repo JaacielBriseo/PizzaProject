@@ -9,15 +9,18 @@
 }
 
 .whatsapp {
+    display: flex;
+    justify-content:flex-end;
     padding: 2px;
+}
+.ready {
+    display: flex;
+    
+}
+.botones {
     display: flex;
     justify-content: end;
 }
-
-.position {
-    position: relative;
-}
-
 
 
 
